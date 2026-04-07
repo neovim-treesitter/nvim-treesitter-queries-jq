@@ -1,7 +1,7 @@
 {
+  "lang": "jq",
   "url": "https://github.com/flurie/tree-sitter-jq",
   "semver": false,
   "parser_version": "c204e36d2c3c6fce1f57950b12cabcc24e5cc4d9",
-  "location": null,
-  "lang": "jq"
+  "location": null
 }
